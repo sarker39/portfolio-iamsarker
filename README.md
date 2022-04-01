@@ -9,7 +9,7 @@ Portfolio website for sourav sarker.
     //shortcutForBoilerPlate: "rafce" (only after installing es7-react-react-native extension)
 }
 
-
+install dependecies: @sanity/client , @sanity/image-url , framer-motion, node-sass react-icons, react-tooltip
 
 
 // guided schemas: https://minhaskamalgithubioDownGit#homeurl=https:%2F%2Fgithubcom%2Fadrianhajdin%2Fproject_professional_portfolio%2Ftree%2Fmaster%2Fbackend_sanity_portfolio%2Fschemas
