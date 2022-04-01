@@ -11,7 +11,6 @@ import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
-import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
@@ -25,7 +24,7 @@ import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
+import logo from '../assets/logo.gif';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -34,6 +33,9 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
+import python from '../assets/python.png';
+import angular from '../assets/angular.png';
+import dotnetcore from '../assets/dotnetcore.png'
 
 export default {
   email,
@@ -69,4 +71,6 @@ export default {
   nb,
   skype,
   spotify,
+  angular,
+  dotnetcore
 };
