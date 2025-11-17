@@ -2,6 +2,7 @@
 Portfolio website for sourav sarker. 
 
 **netlify account:** sourav.integrated95@gmail.com(with email,not sso)
+
 **Sanity CMS:** sourav39.csesust@gmail.com(sso)
 
 To get backend(sanity cms), you need to install dependencies in "./backend-sanity" folder and get UI view of db using sanity 
